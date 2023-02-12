@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ProjectFootprints)(type KiCad)(uri ${KIPRJMOD}/ProjectSpecificFootprints.pretty)(options "")(descr "For footprints used by this project only"))
+)

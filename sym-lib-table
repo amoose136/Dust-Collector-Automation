@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Dust-Collector-Reciever_parts")(type "KiCad")(uri "${KIPRJMOD}/ProjectSpecificSymbols/Dust-Collector-Reciever_parts.kicad_sym")(options "")(descr "For symbols used only in this project"))
+  (lib (name "stm32l010k4t6")(type "KiCad")(uri "${KIPRJMOD}/ProjectSpecificSymbols/stm32l010k4t6.kicad_sym")(options "")(descr ""))
+)
