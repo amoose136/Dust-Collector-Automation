@@ -2,12 +2,12 @@ A project to make a few pcbs that control our cyclone dust collector in the wood
 
 WIP
 
-./Images/BoxCad1.jpg
+![box cad 1](./Images/BoxCad1.jpg)
 
-./Images/BoxCad2.jpg
+![box cad 2](./Images/BoxCad2.jpg)
 
-./Images/BoardHolder.jpg
+![printed board holder](./Images/BoardHolder.jpg)
 
-./Images/BoardPreviewFront1.png
+![Board preview front](./Images/BoardPreviewFront1.png)
 
-./Images/BoardPreviewBack1.png
+![Board preview back](./Images/BoardPreviewBack1.png)
