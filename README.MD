@@ -1,5 +1,2 @@
-## Setup Instructions
-1.) Right click setup.ps1 and select "Run with PowerShell"
-2.) If you pre made a kicad project, drag relavent files into the directory when prompted
-3.) Put project specific footprints in the directory project specific footprint
-4.) Put project specific symbols in the coresponding directory
+A project to make a few pcbs that control our cyclone dust collector in the wood shop in reponse to tool usage and whether or not the dust bin is full. Operates of Lora radio.
+WIP
